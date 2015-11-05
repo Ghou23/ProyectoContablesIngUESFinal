@@ -1,5 +1,5 @@
 /*    */ package almacen2.data;
-/*    */ 
+/*    */ //alex
 /*    */ public class AlmacenInterno
 /*    */ {
 /*    */   private Integer id;
