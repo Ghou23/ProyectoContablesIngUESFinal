@@ -12,4 +12,11 @@ package almacen2.data;
  */
 public class prueba01 {
     
+    
+    // hola alex pude cambiarlo - me dices si te enseño como realizarlo. ??
+  private String nombre;
+  private Double unidadesCompra;
+  private Double totalCompra;
+  private Double unidadesVenta;
+  private Double totalVenta;
 }
